@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>IAR2006899P3_VehicleServiceSystem</name>
+=======
+            <name>BAR_2006899_P1</name>
+>>>>>>> 1f60086 (Initial commit)
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
