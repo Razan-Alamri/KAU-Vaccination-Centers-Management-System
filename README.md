@@ -7,7 +7,7 @@ The primary objective of this program is to implement a linked list. The seconda
 This program is designed to manage the distribution of health practitioners among vaccination centers. It utilizes linked lists to organize practitioners within each center, ensuring efficient management and handling of operations. The program interacts with three files: two input files and one output file.
 
 ### Assignment PDF
-- You can find the detailed assignment in the uploaded PDF file: [KAU Vaccination Centers Management System Assignment.pdf](xx%xx%xx%xxx.pdf).
+- You can find the detailed assignment in the uploaded PDF file: [KAU Vaccination Centers Management System Assignment.pdf](KAU%Vaccination%20Centers%20Management%20System%20Assignment.pdf).
 
 ### Features
 The program implements the following key methods:
